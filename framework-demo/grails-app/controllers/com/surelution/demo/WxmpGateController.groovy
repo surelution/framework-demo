@@ -33,7 +33,7 @@ class WxmpGateController {
 			println ret
 			render(ret)
 			return
-		}
+		} 
 		render("hello")
 	}
 	
