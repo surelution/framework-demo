@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<wx>
+	<token>whistle</token>
+	<appid>wx2fc522376d1831c4</appid>
+	<secret>95fe6dd42e9355220356a3b4b1ffcd83</secret>
+	<checkRequestRestrictly>true</checkRequestRestrictly>
+	<processor-chain>
+		<processor>com.surelution.demo.DefaultAction</processor>
+	</processor-chain>
+</wx>
